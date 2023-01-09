@@ -1,4 +1,4 @@
-# Original repository: https://github.com/openai/CLIP
+## Original repository: https://github.com/openai/CLIP
 
 # CLIP
 
